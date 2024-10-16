@@ -1,1 +1,3 @@
-# qa-trainingTraining repository
+# qa-training
+
+Training repository
